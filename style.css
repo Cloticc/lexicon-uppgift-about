@@ -3,11 +3,14 @@
 * {
   /* background-color:  */
   font-family: 'Raleway', sans-serif;
+  background-color: #111827;
+  color: aliceblue;
+  font-size: large;
 }
 
 
 header {
-  padding: 1em;
+  padding: 5em;
   text-align: center;
 }
 
